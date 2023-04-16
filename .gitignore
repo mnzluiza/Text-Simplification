@@ -1,0 +1,22 @@
+# Auto-generated files
+*.swp
+*.pyc
+.pth
+outputs
+
+# Byte-compiled / optimized / DLL files
+*__pycache__/
+.pyc
+__pycache__/*
+__pycache__*
+*.py[cod]
+*$py.class
+
+# Downloadable inputs
+inputs/crawling_by_readability
+inputs/lit_para_todos
+tools/base_tep2
+tools/corpop
+tools/portilexicon
+tools/embedding/fasttext
+tools/embedding/word2vec
